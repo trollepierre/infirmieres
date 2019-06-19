@@ -163,7 +163,6 @@ li {
   .h1 {
     font-weight: 400;
     font-size: 2.5em;
-    color: rgb(89, 90, 90);
     line-height: 0.2;
   }
 
@@ -174,29 +173,11 @@ li {
   .address {
     font-size: 1.2em;
   }
-
-  .iframe {
-    width: 600px;
-    height: 450px;
-  }
-
-  .gmap {
-    height: 450px;
-  }
-
 }
 
 @media only screen and (min-width: 1000px) {
-  .h1 {
-    font-weight: 400;
-    font-size: 2.5em;
-    color: rgb(89, 90, 90);
-    line-height: 0.2;
-  }
-
   .h2 {
     font-size: 1.8em;
-    font-weight: lighter;
     line-height: 1;
   }
 
