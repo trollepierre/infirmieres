@@ -38,6 +38,10 @@ li {
   cursor: pointer;
 }
 
+.call-mini {
+  font-size: 0.6em;
+}
+
 .h2 {
   font-size: 1.2em;
   font-weight: lighter;
